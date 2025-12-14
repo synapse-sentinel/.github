@@ -145,10 +145,9 @@ Synapse Sentinel is not just logging or compliance—it's the **autonomous decis
 
 ## 📚 Documentation
 
-- **[Full Vision & Strategy](profile/VISION.md)** - Complete architectural overview
-- **[Migration Strategy](#)** - Moving from PKM + claude-history
-- **[Decision Matrix](#)** - What Sentinel decides vs escalates
-- **[Agent Integration](#)** - How agents query Sentinel
+- **[Full Vision & Strategy](https://github.com/synapse-sentinel/.github/blob/main/profile/VISION.md)** - Complete architectural overview
+- **[Grok AI Analysis](https://github.com/synapse-sentinel/.github/blob/main/profile/GROK-ANALYSIS.md)** - Strategic validation and recommendations
+- **[Implementation Issues](https://github.com/synapse-sentinel/prefrontal-cortex/issues)** - Active development roadmap
 
 ---
 
